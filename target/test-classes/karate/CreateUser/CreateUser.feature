@@ -6,7 +6,7 @@ Feature:
     And request
                 """
                 { "name":"test123",
-                "job":"test123@mailnesia.com"
+                "job":"IT"
                }
                 """
   #    * multipart file loadfile = {read: 'GG.json',  contentType: 'application/json'}
